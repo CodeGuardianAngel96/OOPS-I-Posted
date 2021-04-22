@@ -6,6 +6,7 @@
     Color: White, Vehicle name: ashokleyland load, Speed: 180, Mileage: 12
     Color: White, Vehicle name: scania AC, Speed: 240, Mileage: 18
 '''
+# This document is still in process
 
 class Automobile:
 
